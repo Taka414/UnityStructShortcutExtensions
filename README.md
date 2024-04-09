@@ -1,0 +1,2 @@
+# UnityStructShortcutExtensions
+このライブラリはUnityの構造体の操作のショートカットを提供します
